@@ -1,0 +1,3 @@
+Error detectado: El nombre no puede estar vacío
+Error detectado: El nombre no puede estar vacío
+Error detectado: El nombre no puede estar vacío
