@@ -17,3 +17,5 @@ Proyecto realizado en Python utilizando Programación Orientada a Objetos.
 
 ## Autor
 Jessica Urrea
+## colaboradores
+Karen Lancheros 
